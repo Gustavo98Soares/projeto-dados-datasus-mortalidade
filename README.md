@@ -15,21 +15,20 @@ Projeto **Software Product**, focado no desenvolvimento de uma estrutura de Busi
 
 ## 🔗 Links do Projeto
 
-Fonte de dados:
-[https://dadosabertos.saude.gov.br/dataset/sim https://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2024/estimativa_dou_2024.pdf]
+* Fonte de dados:[https://dadosabertos.saude.gov.br/dataset/sim https://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2024/estimativa_dou_2024.pdf]
 [https://www.ibge.gov.br/explica/codigos-dos-municipios.php]
 
-Board: [https://github.com/users/Gustavo98Soares/projects/2]
+* Board: [https://github.com/users/Gustavo98Soares/projects/2]
 
-Github: [https://github.com/Gustavo98Soares/projeto-dados-datasus-mortalidade]
+* Github: [https://github.com/Gustavo98Soares/projeto-dados-datasus-mortalidade]
 
-Dashboard:[https://app.powerbi.com/view?r=eyJrIjoiZjVmMjU2MDYtZjZjNi00YjY5LWJkY2QtNzI1ZDQwNjA4NGU1IiwidCI6IjhiMTY4MGM2LWZlMDEtNDRlZC04ODFhLTBmYTE1NGIxZmRiYiJ9]
+* Dashboard:[https://app.powerbi.com/view?r=eyJrIjoiZjVmMjU2MDYtZjZjNi00YjY5LWJkY2QtNzI1ZDQwNjA4NGU1IiwidCI6IjhiMTY4MGM2LWZlMDEtNDRlZC04ODFhLTBmYTE1NGIxZmRiYiJ9]
 
-Vídeos
-AC 1: [https://www.youtube.com/watch?v=nc7xDRLLENk]
-AC 2: [https://youtu.be/wfSFlCJaU04]
-AC 3: [https://youtu.be/Uh8mk59Vwdo]
-Prova Final: [https://youtu.be/aTCIZZ3B1QE]
+## Vídeos
+* AC 1: [https://www.youtube.com/watch?v=nc7xDRLLENk]
+* AC 2: [https://youtu.be/wfSFlCJaU04]
+* AC 3: [https://youtu.be/Uh8mk59Vwdo]
+* Prova Final: [https://youtu.be/aTCIZZ3B1QE]
 
 
 ## 🛠️ Tecnologias Utilizadas
