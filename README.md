@@ -18,3 +18,7 @@ Projeto **Software Product**, focado no desenvolvimento de uma estrutura de Busi
 * **Python (v3.11+)** 
 * **Pandas (Library):** Biblioteca de manipulação de dados utilizada para ler os múltiplos arquivos, unificar as planilhas e aplicar as regras de negócio analíticas (conversão de códigos do SUS em texto legível).
 * **Power BI Desktop:** Plataforma focada em Data Modeling (Modelagem Star Schema), desenvolvimento de cálculos em linguagem DAX e design dos dashboards interativos.
+
+
+<img width="1536" height="1024" alt="Modelo MER" src="https://github.com/user-attachments/assets/322a2d1f-2099-44e5-b058-5e05a8fdf1fb" />
+
